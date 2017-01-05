@@ -30,7 +30,7 @@
   <Environment></Environment>
   <Data>
     <Volume>
-      <HostDir>/mnt/cache/appdata/homebridge</HostDir>
+      <HostDir>/mnt/user/appdata/homebridge</HostDir>
       <ContainerDir>/root/.homebridge/</ContainerDir>
       <Mode>rw</Mode>
     </Volume>
